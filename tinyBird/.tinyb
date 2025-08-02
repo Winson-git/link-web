@@ -1,0 +1,14 @@
+{
+    "host": "https://api.europe-west2.gcp.tinybird.co",
+    "id": "a5437207-6600-4d41-970d-b03b5239ac32",
+    "name": "link_web",
+    "scope": "user",
+    "token": "p.eyJ1IjogImE1NDM3MjA3LTY2MDAtNGQ0MS05NzBkLWIwM2I1MjM5YWMzMiIsICJpZCI6ICI5Y2ZkMWQ4Yi05YzBjLTQ3OTMtYTQ5YS1lYzUzYjRjNTIzYzUiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.es2tXSgqg98nnMGAyunSrQH8Hnd81_7Ognu_LtswztI",
+    "tokens": {
+        "https://api.europe-west2.gcp.tinybird.co": "p.eyJ1IjogImE1NDM3MjA3LTY2MDAtNGQ0MS05NzBkLWIwM2I1MjM5YWMzMiIsICJpZCI6ICI5Y2ZkMWQ4Yi05YzBjLTQ3OTMtYTQ5YS1lYzUzYjRjNTIzYzUiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.es2tXSgqg98nnMGAyunSrQH8Hnd81_7Ognu_LtswztI"
+    },
+    "user_email": "winsonhong2001@gmail.com",
+    "user_id": "dae97b1a-6dab-4cd7-80ce-7fc8e93a3afb",
+    "user_token": "p.eyJ1IjogImRhZTk3YjFhLTZkYWItNGNkNy04MGNlLTdmYzhlOTNhM2FmYiIsICJpZCI6ICJiMTQzZGI3NC1hZmMwLTQyYjAtODM0OS05NzJhNzNjZDUxMWQiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.QT0a3VUBgDYrxP6gE_NZrOFsJd5tAmRPprF2JAKbLwk",
+    "version": "0.0.1.dev214"
+}
